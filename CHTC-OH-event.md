@@ -6,8 +6,8 @@ published: true
 excerpt: |
     The CHTC facilitation team will hold extended, in-person office hours on Tuesday, November 1st!
     
-start_date: 2022-11-16
-end_date: 2022-11-16
+start_date: 2022-11-01
+end_date: 2022-11-01
 location: "In-person"
 link: "https://docs.google.com/forms/d/e/1FAIpQLScjjAoyuOA5Kikni0w3SfZpyF5TAOb-fZ8wBlZOLzGb16K0dg/viewform"
 image: "/images/events/christina_image.jpg"
