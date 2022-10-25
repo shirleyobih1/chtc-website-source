@@ -10,8 +10,8 @@ start_date: 2022-11-16
 end_date: 2022-11-16
 location: "In-person"
 link: ""
-image: "/images/events/christina_image.jpg"
-header_image: "/images/events/christina_image.jpg"
+image: "/images/demo_robot.jpeg"
+header_image: "/images/demo_robot.jpeg"
 ---
 
 {% capture main %}
